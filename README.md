@@ -4,7 +4,7 @@ drop the `.mp4` file onto the app icon in the dock and it compresses to the same
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/e63359dd-6790-4de5-883e-318099d82f21" height="100" />
-  <img src="https://github.com/user-attachments/assets/e2381102-2798-4ec2-af93-ebcaaa7deafb" height="100" />
+  <img src="https://github.com/user-attachments/assets/e2381102-2798-4ec2-af93-ebcaaa7deafb" width="auto" height="84" />
 </p>
 
 
